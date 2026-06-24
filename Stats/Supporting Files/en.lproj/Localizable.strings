@@ -238,6 +238,9 @@
 "No options to configure for the popup in this module" = "No options to configure for the popup in this module";
 "Process" = "Process";
 "Kill process" = "Kill process";
+"Show process tree" = "Show process tree";
+"Process tree" = "Process tree";
+"No child processes" = "No child processes";
 "Keyboard shortcut" = "Keyboard shortcut";
 "Listening..." = "Listening...";
 
